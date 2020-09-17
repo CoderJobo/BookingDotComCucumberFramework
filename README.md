@@ -19,7 +19,7 @@ This project can handle configuration for the following environments:
 -------
 Reports
 -------
-Reports are generated automatically and can be located in the following folder
+Reports are generated automatically and can be located in the following folder:\
 /target/cucumber-reports/index.html
 
 ----------------
