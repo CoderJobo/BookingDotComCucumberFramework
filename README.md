@@ -25,9 +25,9 @@ Reports are generated automatically and can be located in the following folder
 ----------------
 Folder Structure
 ----------------
-/src/main/java/core contains the DriverFactory and TestConfig classes
-/src/main/resources contains the .properties files with environment configuration details
-/src/test/java/features contains the feature file SearchHotels.feature
-/src/test/java/pages contains the Page Object Model classes
-/src/test/java/runner contains the TestRunner class from where the tests are run
-/src/test/java/step_definitions contains the step defintion files
+- /src/main/java/core contains the DriverFactory and TestConfig classes
+- /src/main/resources contains the .properties files with environment configuration details
+- /src/test/java/features contains the feature file SearchHotels.feature
+- /src/test/java/pages contains the Page Object Model classes
+- /src/test/java/runner contains the TestRunner class from where the tests are run
+- /src/test/java/step_definitions contains the step defintion files
