@@ -4,8 +4,8 @@ Framework to test the Star Rating and Spa and wellness centre filters
 -----
 Tools
 -----
-Maven
-Cucumber
+- Maven
+- Cucumber
 
 -------------
 Configuration
